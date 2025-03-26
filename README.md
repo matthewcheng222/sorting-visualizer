@@ -1,12 +1,69 @@
-# React + Vite
+# 📊 Sorting Algorithm Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and educational web app that visualizes multiple sorting algorithms in action. Built with modern web technologies and designed for simplicity, clarity, and responsiveness.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Visualizes popular sorting algorithms:
+  - Bubble Sort
+  - Quick Sort
+  - Merge Sort
+  - Selection Sort
+  - Insertion Sort
+  - Heap Sort
+  - Cycle Sort
+  - 3-way Merge Sort
 
-## Expanding the ESLint configuration
+- 🪄 Smooth animations with Framer Motion
+- 📝 Step-by-step algorithm explanation
+- 🎛️ Adjustable speed control
+- 📱 Fully responsive UI
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+
+## 🧑‍💻 Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/matthewcheng222/sorting-visualizer.git
+cd sorting-visualizer
+```
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Run the development server**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view it live.
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+### 👨‍💻 Author
+
+Designed and developed by [Matthew Cheng](https://github.com/matthewcheng222)
+
+Feel free to fork, contribute, and share! 🚀
+
