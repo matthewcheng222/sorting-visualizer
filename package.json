@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://matthewcheng222.github.io/sorting-visualizer",
+  "homepage": "https://sort.mcheng.app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
